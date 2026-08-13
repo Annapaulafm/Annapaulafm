@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgBase" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0e17"/>
@@ -27,7 +27,7 @@
     </filter>
 
     <clipPath id="frame">
-      <rect x="0" y="0" width="1200" height="300" rx="18"/>
+      <rect x="0" y="0" width="1200" height="360" rx="18"/>
     </clipPath>
 
     <linearGradient id="textFade" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -37,47 +37,42 @@
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect x="0" y="0" width="1200" height="300" fill="url(#bgBase)"/>
+    <rect x="0" y="0" width="1200" height="360" fill="url(#bgBase)"/>
 
     <g filter="url(#blurHeavy)">
-      <circle cx="150" cy="80" r="160" fill="url(#blob1)">
+      <circle cx="150" cy="100" r="190" fill="url(#blob1)">
         <animate attributeName="cx" values="150;420;150" dur="14s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="80;220;80" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="100;260;100" dur="11s" repeatCount="indefinite"/>
       </circle>
 
-      <circle cx="950" cy="60" r="180" fill="url(#blob2)">
+      <circle cx="950" cy="70" r="210" fill="url(#blob2)">
         <animate attributeName="cx" values="950;700;950" dur="13s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="60;200;60" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="70;240;70" dur="16s" repeatCount="indefinite"/>
       </circle>
 
-      <circle cx="600" cy="250" r="200" fill="url(#blob3)">
+      <circle cx="600" cy="300" r="230" fill="url(#blob3)">
         <animate attributeName="cx" values="600;300;900;600" dur="18s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="250;100;250" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="300;120;300" dur="15s" repeatCount="indefinite"/>
       </circle>
 
-      <circle cx="1050" cy="230" r="140" fill="url(#blob4)">
+      <circle cx="1050" cy="280" r="160" fill="url(#blob4)">
         <animate attributeName="cx" values="1050;800;1050" dur="10s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="230;100;230" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="280;120;280" dur="12s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <rect x="0" y="0" width="1200" height="300" fill="#0a0e17" opacity="0.28"/>
+    <rect x="0" y="0" width="1200" height="360" fill="#0a0e17" opacity="0.28"/>
 
-    <text x="600" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="20" letter-spacing="6"
-          fill="#ffd1e8" text-anchor="middle" opacity="0.85">
-      &gt; COMPUTER SCIENCE STUDENT
-    </text>
-
-    <text x="600" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="800"
+    <text x="600" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="74" font-weight="800"
           fill="url(#textFade)" text-anchor="middle">
       I'm Ana Paula
     </text>
 
-    <text x="600" y="235" font-family="'Segoe UI', Arial, sans-serif" font-size="17"
-          fill="#c9c9e0" text-anchor="middle" opacity="0.85">
-      Welcome to my GitHub · learning, building, breaking things (on purpose)
+    <text x="600" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="22" letter-spacing="5"
+          fill="#ffd1e8" text-anchor="middle" opacity="0.9">
+      COMPUTER SCIENCE STUDENT
     </text>
 
-    <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#2a2f3a" stroke-width="1"/>
+    <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#2a2f3a" stroke-width="1"/>
   </g>
 </svg>
