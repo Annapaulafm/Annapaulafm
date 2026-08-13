@@ -1,438 +1,288 @@
 <div align="center">
 
-<!-- ========================= -->
+<!-- ===================== BANNER PRINCIPAL ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00F0FF&fontAlignY=38&animation=fadeIn&desc=Initializing%20Developer%20Profile...&descAlignY=58&descSize=18&descColor=8A2BE2" width="100%"/>
 
-<!--        SYSTEM BOOT        -->
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Booting+Core+Systems...;Loading+Neural+Interface...;Access+Granted+%E2%80%94+Welcome%2C+User;Full+Stack+%7C+AI+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+</a>
 
-<!-- ========================= -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:0b1020,100:00e5ff&text=SYSTEM%20ONLINE&fontColor=00e5ff&fontSize=42&fontAlignY=40&animation=twinkling&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=65&descSize=15" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ana+Paula+%3C%2F%3E;Computer+Science+Student;Algorithm+%7C+Architecture+%7C+Systems;Building+ideas+with+code...;System+status%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=statuspal&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-COMPUTER%20SCIENCE-111827?style=for-the-badge&logo=academia&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-050505?style=for-the-badge&logo=probot&logoColor=00E5FF"/>
+![Visitors](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white)
+![License](https://img.shields.io/badge/LICENSE-MIT-8A2BE2?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-# `> whoami`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════╣
-║ NAME        :: Ana Paula                                 ║
-║ ROLE        :: Computer Science Student                  ║
-║ SPECIALTY   :: Algorithms • Systems • Computer Arch.     ║
-║ LANGUAGE    :: C                                          ║
-║ ENVIRONMENT :: Linux / Windows / VS Code                  ║
-║ STATUS      :: Learning • Building • Improving           ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-## `> Sobre Mim`
-
-🎓 Estudante de **Ciência da Computação**, apaixonada por entender como as coisas funcionam por baixo dos panos.
-
-Atualmente, meus estudos e projetos estão principalmente concentrados em:
-
-* 🧠 **Algoritmos e Estruturas de Dados**
-* 💻 **Programação em C**
-* ⚡ **Análise de complexidade e desempenho**
-* 🖥️ **Organização e Arquitetura de Computadores**
-* 🔌 **Sistemas Digitais e Verilog**
-* 🧩 **Estruturas de dados, TADs e listas encadeadas**
-* 🚁 Desenvolvimento de projetos acadêmicos envolvendo algoritmos e sistemas
-
-> `"The goal isn't to know everything. It's to understand, build and keep evolving."`
-
----
-
-# `> tech_stack`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,verilog&theme=dark" />
-
-<br><br>
-
-### `CORE`
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-
-<br><br>
-
-### `CURRENTLY EXPLORING`
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,githubactions&theme=dark" />
-
-</div>
-
----
-
-# `> development_matrix`
+<!-- ===================== SOBRE MIM ===================== -->
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> `SOBRE_MIM.exe`
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🧠 Algorithms
+```yaml
+> whoami
 
-```text
-████████████████░░░░ 80%
+nome:           Seu Nome Aqui
+identidade:     Desenvolvedor(a) Full Stack / AI Engineer
+localizacao:    Brasil 🇧🇷
+foco_atual:     Construindo sistemas inteligentes e interfaces do futuro
+idiomas:        [Português, Inglês]
+missao:         "Transformar ideias complexas em código elegante"
+status:         disponível para novos projetos
 ```
-
-* Sorting Algorithms
-* QuickSort
-* Selection Sort
-* Insertion Sort
-* Bubble Sort
-* Complexity Analysis
-* Recursion
 
 </td>
-
-<td width="50%" valign="top">
-
-### 💾 Data Structures
-
-```text
-███████████████░░░░░ 75%
-```
-
-* TADs
-* Structs
-* Pointers
-* Linked Lists
-* Stacks
-* Queues
-* Dynamic Memory
-
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/wave.gif" width="100%"/>
 </td>
 </tr>
+</table>
 
+- 🧠 Apaixonado(a) por **Inteligência Artificial**, automação e arquitetura de sistemas
+- 🚀 Sempre explorando novas tecnologias e construindo projetos de alto impacto
+- 🌌 Acredito em código limpo, escalável e com propósito
+- 📡 Disponível para colaborações e projetos open-source
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> `TECH_STACK.dll`
+
+<div align="center">
+
+### ⚙️ Linguagens
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00F0FF)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+### 🔧 Backend & Dados
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00F0FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### 🤖 IA & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ===================== FERRAMENTAS ===================== -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> `TOOLKIT.sys`
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VSCode](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJETOS ===================== -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> `PROJECTS.db`
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Computer Architecture
+<div align="center">
 
-```text
-██████████████░░░░░░ 70%
-```
+### 🛰️ Projeto Alpha
+**Sistema de automação inteligente com IA**
 
-* Cache Memory
-* Direct Mapping
-* Associativity
-* Hit / Miss
-* Write Through
-* Write Back
-* Locality
+`Python` `FastAPI` `OpenAI API`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-00F0FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seu-usuario/projeto-alpha)
+
+</div>
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚡ Digital Systems
+<div align="center">
 
-```text
-████████████░░░░░░░░ 60%
-```
+### 🧬 Projeto Nova
+**Dashboard analítico em tempo real**
 
-* Logic Circuits
-* Verilog
-* Quartus
-* GTKWave
-* Digital Design
-* Finite State Machines
+`React` `Node.js` `WebSocket`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/projeto-nova)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔮 Projeto Orion
+**API de processamento de linguagem natural**
+
+`PyTorch` `NLP` `Docker`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seu-usuario/projeto-orion)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🕸️ Projeto Nexus
+**Plataforma web full stack de gestão**
+
+`Next.js` `PostgreSQL` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/projeto-nexus)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# `> tools`
-
-<div align="center">
-
-|         Category         |              Tools             |
-| :----------------------: | :----------------------------: |
-|          💻 IDE          |             VS Code            |
-|    🔧 Version Control    |          Git / GitHub          |
-|        ⚙️ Compiler       |               GCC              |
-| 🖥️ Hardware Description |             Verilog            |
-|   🔬 Digital Simulation  |    Icarus Verilog / GTKWave    |
-|   🏗️ FPGA Development   |             Quartus            |
-|           🐧 OS          |         Linux / Windows        |
-|      📊 Performance      | `clock()` / algorithm analysis |
-
-</div>
-
----
-
-# `> projects`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚁 Drone Delivery System</h3>
-
-<p align="center">
-Academic project focused on data structures and algorithms.
-</p>
-
-```text
-TADs
- ├── Pacote
- ├── Galpão
- └── ListaPacote
-
-Algorithms
- ├── Bubble Sort
- ├── Selection Sort
- ├── Insertion Sort
- ├── Shell Sort
- └── QuickSort
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-00E5FF?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/AEDS-111827?style=flat-square&logo=thealgorithms&logoColor=00E5FF"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚦 Intelligent Toll System</h3>
-
-<p align="center">
-Digital system developed with Verilog for vehicle classification.
-</p>
-
-```text
-INPUT
- ├── Vehicle Axles
- ├── Vehicle Weight
- ├── Clock
- └── Reset
-
-OUTPUT
- ├── Classification
- └── 7-Segment Display
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Verilog-00E5FF?style=flat-square&logo=verilog&logoColor=black"/>
-<img src="https://img.shields.io/badge/Quartus-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/GTKWave-111827?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ Sorting Algorithms Lab</h3>
-
-<p align="center">
-Performance analysis of sorting algorithms.
-</p>
-
-```text
-Metrics
- ├── Comparisons
- ├── Movements
- └── Execution Time
-
-Algorithms
- ├── Selection Sort
- ├── Insertion Sort
- ├── Shell Sort
- └── QuickSort
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 Computer Architecture Studies</h3>
-
-<p align="center">
-Experiments and exercises involving cache organization.
-</p>
-
-```text
-Topics
- ├── Locality
- ├── Direct Mapping
- ├── Set Associativity
- ├── Fully Associative
- ├── Hit / Miss Rate
- └── Replacement Policies
-```
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# `> current_mission`
+<!-- ===================== OBJETIVOS ATUAIS ===================== -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> `CURRENT_GOALS.log`
 
 ```bash
-┌──[ ANA@GITHUB ~ ]
-└─$ cat current_objectives.txt
+user@dev-terminal:~$ cat objetivos_2026.txt
 
-[01] ████████████████████  Algorithms & Data Structures
-[02] █████████████████░░░  C Programming
-[03] ████████████████░░░░  Computer Architecture
-[04] ██████████████░░░░░░  Digital Systems / Verilog
-[05] ████████████░░░░░░░░  Software Engineering
-[06] ██████████░░░░░░░░░░  Open Source
+[ OK ]  Aprofundar conhecimentos em arquitetura de sistemas distribuídos
+[ OK ]  Contribuir para projetos open-source relevantes
+[ >> ]  Estudar LLMs e engenharia de prompts avançada
+[ >> ]  Construir um SaaS completo do zero (idea -> deploy)
+[ .. ]  Obter certificação em Cloud (AWS / GCP)
+[ .. ]  Compartilhar conhecimento via artigos técnicos
 
-> Mission: LEARN → BUILD → TEST → IMPROVE
-> Status: RUNNING...
+user@dev-terminal:~$ echo $STATUS
+> "Compilando o futuro, uma linha de código por vez."
+
+user@dev-terminal:~$ _
 ```
 
----
+<br/>
 
-# `> github_metrics`
+<!-- ===================== GITHUB STATS ===================== -->
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="35"> `ANALYTICS.exe`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F0FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="49%"/>
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" width="49%"/>
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=39FF14&area=true&area_color=8A2BE2" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE CONTRIBUTION ===================== -->
+## <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35"> `CONTRIBUTION_MATRIX.gif`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-</a>
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
----
+> ⚡ **Para ativar a animação da cobra:** crie o workflow abaixo em `.github/workflows/snake.yml` no seu repositório de perfil (`SEU-USUARIO/SEU-USUARIO`). Ele gera automaticamente o SVG acima a partir do seu grid de contribuições.
 
-# `> activity`
+<details>
+<summary>📄 Clique para ver o snake.yml</summary>
 
-<div align="center">
+```yaml
+name: Generate Snake Animation
 
-<a href="https://github.com/SEU_USUARIO">
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</a>
-
-</div>
-
----
-
-# `> achievements`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-
-</a>
-
-</div>
-
----
-
-# `> contribution_matrix`
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<p>
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
-</p>
-
-</div>
-
-> **Configuração da Snake:** para essa animação funcionar, configure a GitHub Action do repositório de perfil para gerar `github-contribution-grid-snake-dark.svg` na branch `output`.
-
----
-
-# `> system_links`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│     "Code is not just instructions.                 │
-│      It's a way of turning ideas into systems."     │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-<br>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:0b1020,100:050505" width="100%"/>
+<br/>
 
-<sub>⚡ SYSTEM ONLINE • KEEP BUILDING • KEEP LEARNING ⚡</sub>
+<!-- ===================== REDES SOCIAIS ===================== -->
+## <img src="https://media.giphy.com/media/lxOO2sm23FUnu/giphy.gif" width="35"> `CONNECT.link`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/seu-usuario)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/seu-usuario)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.dev)
 
 </div>
+
+<br/>
+
+<!-- ===================== RODAPÉ ===================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Conex%C3%A3o+encerrada...;Obrigado+pela+visita%2C+humano." alt="Footer Typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+
+<sub>⚡ Construído com Markdown + HTML + SVG — 100% compatível com GitHub</sub>
+
+</div>
+
