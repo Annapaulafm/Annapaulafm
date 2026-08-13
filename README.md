@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00F0FF&fontAlignY=38&animation=fadeIn&desc=Initializing%20Developer%20Profile...&descAlignY=58&descSize=18&descColor=8A2BE2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:5B21B6,100:7C3AED&height=280&section=header&text=Ana%20Paula&fontSize=60&fontColor=FFD1E8&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Booting+Core+Systems...;Loading+Neural+Interface...;Access+Granted+%E2%80%94+Welcome%2C+User;Full+Stack+%7C+AI+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FFD1E8&center=true&vCenter=true&width=650&lines=Welcome+to+Ana's+GitHub;Computer+Science+Student" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -285,4 +285,3 @@ jobs:
 <sub>⚡ Construído com Markdown + HTML + SVG — 100% compatível com GitHub</sub>
 
 </div>
-
