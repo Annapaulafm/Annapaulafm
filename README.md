@@ -26,5 +26,17 @@
 
 <img src="https://raw.githubusercontent.com/Annapaulafm/Annapaulafm/main/about.svg" width="100%" />
 
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?..." />
+</a>
+
+<img src="https://raw.githubusercontent.com/Annapaulafm/Annapaulafm/main/techstack.svg" width="100%" />
+
+<table align="center">
+<tr><td align="center">
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,mysql" />
+</td></tr>
+</table>
+
 </div>
 
