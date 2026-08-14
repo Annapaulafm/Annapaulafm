@@ -24,6 +24,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFD1E8&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Always+learning+something+new+and+turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<img src="https://raw.githubusercontent.com/Annapaulafm/Annapaulafm/main/about.svg" width="100%" />
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?..." />
+</a>
+
+<img src="https://raw.githubusercontent.com/Annapaulafm/Annapaulafm/main/techstack.svg" width="100%" />
+
 <table align="center">
 <tr><td align="center">
 <img src="https://skillicons.dev/icons?i=c,html,css,js,python,java,mysql" />
