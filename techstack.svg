@@ -56,4 +56,13 @@
       </circle>
     </g>
 
-    <rect x="0" y="0" width="1200" height="300"
+    <rect x="0" y="0" width="1200" height="300" fill="#0a0e17" opacity="0.5"/>
+
+    <text x="80" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="800"
+          fill="#ffd1e8">
+      💻 Tech Stack
+    </text>
+
+    <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#2a2f3a" stroke-width="1"/>
+  </g>
+</svg>
