@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br/>
+<br/>
+
 <img src="https://raw.githubusercontent.com/Annapaulafm/Annapaulafm/main/about.svg" width="100%" />
 
 <a href="#">
